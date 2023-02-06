@@ -1,5 +1,0 @@
-notbook,150
-book,200
-pen,250
-pencil,300
-ruler,100
