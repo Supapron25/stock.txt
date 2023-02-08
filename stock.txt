@@ -1,0 +1,5 @@
+notebook,15
+book,100
+pencil,200
+pen,220
+ruler,250
